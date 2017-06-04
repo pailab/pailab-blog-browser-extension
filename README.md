@@ -1,6 +1,4 @@
-# Pailab Blog Browser Extension
-
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nimelepbpejjlbmoobocpfnjhihnpked.svg)](https://chrome.google.com/webstore/detail/pailab-blog-chrome-extens/ffkmipkgjancghikmhgjafocnfmoimim?hl=tr)
+# Pailab Blog Browser Extension [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nimelepbpejjlbmoobocpfnjhihnpked.svg)](https://chrome.google.com/webstore/detail/pailab-blog-chrome-extens/ffkmipkgjancghikmhgjafocnfmoimim?hl=tr)
 
 ![](http://pailab.net/assets/images/logo.png)
 
