@@ -1,5 +1,8 @@
 # Pailab Blog Browser Extension
 
+![](http://pailab.net/assets/images/logo.png)
+
+
 # [TR] 
 
 # Hedef:
