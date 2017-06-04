@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto&subset=latin,latin-ext);
+
+body {  min-width:517px;  overflow-x:hidden;  font-family: 'Roboto';  padding: 5px;  margin-left: -1%;}
+div {  font-size: 14px;  float: left;  width: 250px;  padding-bottom: 12px;}
+.header{  padding: 5px;  width: 244px;  float: left;}
+h1{  font-size: 24px;}
+a {  color: #6e1010;font-weight: bolder;  padding: 8px;  display: block;  text-decoration: none;  margin-bottom: 2px;  border-radius: 5px;}
+a:hover {  color: #b01b1b;  background-color: #f5f5f5;}
+a:visited {  color: #999999;}
+img.brand-logo {  max-height: 114px;  margin-top: 14%;}
